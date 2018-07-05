@@ -6,4 +6,4 @@
  * Time: 11:21 PM
  */
 
-echo "this is a test"
+echo "this is a test";
